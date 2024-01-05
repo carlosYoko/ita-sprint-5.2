@@ -16,7 +16,7 @@ El repositorio modela la gestión de una tienda de productos electrónicos. Resu
 | Producto      | Código, nombre, precio, código de fabricante. |
 | Fabricante    | Código, nombre.                               |
 
-### Queries de Verificación en la Tienda:
+### Queries de verificación en la Tienda:
 
 - Lista el nombre de todos los productos en la tabla "Producto".
 - Lista los nombres y precios de todos los productos en la tabla "Producto".
@@ -45,7 +45,7 @@ El repositorio modela la gestión de una universidad. Resumen de los puntos clav
 | Cursos        | Año de inicio y fin del curso escolar.                    |
 | Grados        | Nombre.                                                   |
 
-### Consultas Principales en la Universidad:
+### Consultas principales en la Universidad:
 
 - Retorna un listado con el primer apellido, segundo apellido y el nombre de todos los/las alumnos/as, ordenado alfabéticamente por primer apellido, segundo apellido y nombre.
 - Encuentra el nombre y los dos apellidos de los alumnos que no han dado de alta su número de teléfono en la base de datos.
